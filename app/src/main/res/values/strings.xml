@@ -8,4 +8,6 @@
     <string name="seek_forward">Seek Forward</string>
     <string name="go_back">Go Back</string>
     <string name="toggle_fitScreen">Toggle Fit Screen</string>
+    <string name="no_permission">Permission is not Granted!</string>
+    <string name="request_again">Request Again!</string>
 </resources>
