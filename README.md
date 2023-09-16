@@ -8,11 +8,11 @@ Vid Compose is a cutting-edge Android video player app, meticulously crafted wit
 
 Key Features:
 
-🎬 Custom UI: Vid Compose provides a sleek and intuitive user interface designed to enhance your video playback experience. With Jetpack Compose, we've tailored every aspect of the app to ensure an immersive viewing experience.
+🎬 Custom UI: Vid Compose provides a sleek and intuitive user interface designed to enhance your video playback experience. With Jetpack Compose, I've tailored every aspect of the app to ensure an immersive viewing experience.
 
 🌈 Dynamic Colors: Supporting Android 12 and onwards, Vid Compose adapts to your device's dynamic colors, offering a visually stunning experience that seamlessly integrates with your Android theme.
 
-🎨 Material 3 Theme: We've integrated the Material 3 theme to give Vid Compose a modern and polished look, ensuring that it not only performs exceptionally but also looks fantastic.
+🎨 Material 3 Theme: I've integrated the Material 3 theme to give Vid Compose a modern and polished look, ensuring that it not only performs exceptionally but also looks fantastic.
 
 📂 Organized Video Library: Vid Compose organizes all your videos in one convenient place on the main screen. Plus, you have the option to view them in respective folders if you prefer a more structured approach.
 
