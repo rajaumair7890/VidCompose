@@ -2,7 +2,7 @@
 
 Vid Compose is a cutting-edge Android video player app, meticulously crafted with Jetpack Compose. This innovative player is powered by the Media 3 Exoplayer and elevates your video-watching experience to new heights.
 
-![ScreenShot](/VidComposeCover.png)
+![ScreenShot](/VidComposeCoverCompressed.jpg)
 
 ![ScreenShot](/VidComposeIcon3.png)
 
