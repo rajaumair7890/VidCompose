@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vid Compose</string>
+    <string name="videos_layout">All Videos</string>
+    <string name="folders_layout">Folders</string>
+    <string name="rotate_screen">Rotate Screen</string>
+    <string name="play_pause">Toggle Play Pause</string>
+    <string name="seek_backward">Seek Backward</string>
+    <string name="seek_forward">Seek Forward</string>
+    <string name="go_back">Go Back</string>
+    <string name="toggle_fitScreen">Toggle Fit Screen</string>
+</resources>
