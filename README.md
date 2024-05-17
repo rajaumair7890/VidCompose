@@ -22,7 +22,7 @@ Key Features:
 
 Upgrade your video playback experience with Vid Compose today! Download now and discover the future of video watching on Android.
 
-# Copyright 2024 Umair Abdullah
+# Copyright 2023 Umair Abdullah
 
 ## Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
