@@ -48,7 +48,7 @@ fun VideoItemGridLayout(
 		horizontalArrangement = Arrangement.Center,
 		columns = StaggeredGridCells.Fixed(2)
 	){
-		items(videoList, key = {it.name}){videoItem ->
+		items(videoList, key = {it.id}){videoItem ->
 			VideoGridItem(
 				videoItem = videoItem,
 				onItemClick = onVideoItemClick,
