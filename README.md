@@ -30,3 +30,6 @@ Upgrade your video playback experience with Vid Compose today! Download now and 
    
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
+## A known crashing issue with a quick fix..
+## I've fixed it but you still need to compile the apk.
+## replaced the video-item key in LazyGrid from it.name to it.id.
